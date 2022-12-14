@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ComposeState</string>
+    <string name="expand">Expand</string>
+    <string name="done">Done</string>
+    <string name="event">Event</string>
+    <string name="privacy">Privacy</string>
+    <string name="restore">Restore</string>
+    <string name="hello_state">非结构化状态</string>
+    <string name="hello_state_with_viewmodel">单向数据流</string>
+    <string name="step">静态页面</string>
+    <string name="step1">随机添加与条目删除</string>
+    <string name="step2">软键盘</string>
+    <string name="step3">输入添加</string>
+    <string name="step4">编辑模式</string>
+    <string name="state_recovery_parcelable">状态恢复Parcelable</string>
+    <string name="state_recovery_mapsaver">状态恢复mapSaver</string>
+    <string name="state_recovery_listsaver">状态恢复listSaver</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="main01">Composable函数与预览</string>
+    <string name="main02">布局</string>
+    <string name="main03">配置布局</string>
+    <string name="main04">Material Design</string>
+    <string name="main05">列表与状态</string>
+    <string name="main06">动画</string>
+</resources>
